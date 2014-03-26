@@ -12,6 +12,8 @@ namespace ConsoleApplication1
             Console.WriteLine("123");
 
             throw new Exception("new");
+
+            throw new Exception("Мега фича 2");
         }
     }
 }
