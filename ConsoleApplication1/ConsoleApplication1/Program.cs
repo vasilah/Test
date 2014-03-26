@@ -12,6 +12,8 @@ namespace ConsoleApplication1
             Console.WriteLine("123");
 
             throw new Exception("new");
+
+            //Тут мы создаём мега фичу
         }
     }
 }
